@@ -1,0 +1,736 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DocumentElement>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>00051B15</ID>
+    <EDID>ArmorFFSelf0</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Armor - Oak</ORIGINAL>
+    <TRADUIT>Armatura magica - Quercia</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>MGEF</GRUP>
+    <ID>00051B15</ID>
+    <EDID>ArmorFFSelf0</EDID>
+    <CHAMP>DNAM</CHAMP>
+    <ORIGINAL>Improves the caster's armor rating by &lt;mag&gt; points for &lt;dur&gt; seconds.</ORIGINAL>
+    <TRADUIT>Migliora la classe d'armatura dell'incantatore di &lt;mag&gt; punti per &lt;dur&gt; secondi.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>0107C6B4</ID>
+    <EDID>_Prop_BlackReachLock01</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dwarven Mechanism</ORIGINAL>
+    <TRADUIT>Meccanismo Dwemer</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>0107CD58</ID>
+    <EDID>_LSC_Uvirith_MagicWaterTriggerbox</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Uvirith's Bath</ORIGINAL>
+    <TRADUIT>Bagni di Uvirith</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>0107FE6E</ID>
+    <EDID>_Dun_Interactive_Embers</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Embers</ORIGINAL>
+    <TRADUIT>Braci</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>90</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>010819E5</ID>
+    <EDID>_ENV_Dwe_IN_EntranceStairsLock01</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dwarven Locking Mechanism</ORIGINAL>
+    <TRADUIT>Meccanismo di Blocco Dwemer</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>01083010</ID>
+    <EDID>_0PropylonReceptorTest</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Propylon Receptor</ORIGINAL>
+    <TRADUIT>Recettore Propylon</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>01083014</ID>
+    <EDID>_0Propylon_KeypadButtonLoc02</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Lever</ORIGINAL>
+    <TRADUIT>Leva</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>01083039</ID>
+    <EDID>_0PropylonChamberPortal</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Propylon Portal</ORIGINAL>
+    <TRADUIT>Portale Propylon</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>01087EB4</ID>
+    <EDID>_ACT_Artifact_Bittercup</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bitter Cup</ORIGINAL>
+    <TRADUIT>Calice Amaro</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>01087EB4</ID>
+    <EDID>_ACT_Artifact_Bittercup</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Inspect</ORIGINAL>
+    <TRADUIT>Inspeziona</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>0108F197</ID>
+    <EDID>_Prop_Sign_DirtyMuriel</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Dirty Muriel's Cornerclub</ORIGINAL>
+    <TRADUIT>Locanda di Muriel l'indecente</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>010E01BF</ID>
+    <EDID>_Prop_RoadMarker_Aldruhn01</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ald'Ruhn</ORIGINAL>
+    <TRADUIT>Ald'ruhn</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>ACTI</GRUP>
+    <ID>010E01BF</ID>
+    <EDID>_Prop_RoadMarker_Aldruhn01</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Road To</ORIGINAL>
+    <TRADUIT>Strada per</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>0118845A</ID>
+    <EDID>_BKNoteLlerilMorvayn</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Note from Lleril Morvayn</ORIGINAL>
+    <TRADUIT>Nota da parte di Lleril Morvayn</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>0118845A</ID>
+    <EDID>_BKNoteLlerilMorvayn</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>&lt;font face='$HandwrittenFont'&gt;
+&lt;DIV ALIGN="LEFT"&gt;
+Dearest Father and Mother –&lt;BR&gt;
+&lt;BR&gt;
+I ask the Three for forgiveness that I must  announce my intentions in a letter, but I fear that if I tried to tell you in person, you might try to talk me out of it, or even force me to stay. I cannot. I am leaving to learn what our House can’t teach.
+&lt;BR&gt;
+I love you both more than I can say, and I honor our House with the highest regard, but… my mind is better suited for budgets than blades. The ways of the world are changing, and I feel the winds of trade and prosperity blowing across our land. We are no longer the isolated Dunmer at the edge of the continent. We are part of a Tamrielic society that will only grow more dependent upon negotiations with those beyond our own borders. I’d rather not see the other Houses have a stronger voice in those discussions than our own.
+&lt;BR&gt;
+Our duties as Redoran bind us not only to family and clan, but to our own honor, and I know I can achieve more by becoming as wise in the ways of gold as in steel. I will endeavor to learn from the Imperials how they conquer with treasure, from the Hlaalu how they devastate with finance. I fear you may think me a coward, or that I shirk my responsibilities, but I hope you will see that this will make me a Councilor diligent and wise enough to follow in the footsteps of the great Remas Morvayn.
+&lt;BR&gt;
+Above all this, dearest mother and father, I am, and always will be, loyal to our House and our family. Sotha Sil's wisdom, Almalexia's strength, and Vivec's cunning have shown me that to serve house and kin best, I must strike out on my own. Do not worry that I will forget our people like the Hlaalu curs eating scraps from the Imperials’ hands. I do this only with the best interests of my people in my heart. I hope to return with knowledge that will serve us now and into the future.
+&lt;BR&gt;
+I carry you with me always, and I look forward to the day I see you both again.&lt;BR&gt;
+&lt;BR&gt;Lleril
+&lt;/font&gt;</ORIGINAL>
+    <TRADUIT>&lt;font face='$HandwrittenFont'&gt;
+&lt;DIV ALIGN="LEFT"&gt;
+Caro Padre e Cara Madre –&lt;BR&gt;
+&lt;BR&gt;
+Chiedo perdono ai Tre per dover annunciare le mie intenzioni in una lettera, ma temo che se cercassi di dirvelo di persona, potreste cercare di dissuadermi o addirittura costringermi a restare. Non posso. Sto partendo per imparare ciò che la nostra Casata non può insegnarmi.
+&lt;BR&gt;
+Vi amo entrambi più di quanto si possa esprimere con le parole, e onoro la nostra Casata con il massimo rispetto, ma... la mia mente è più adatta ai bilanci che alle lame. I modi del mondo stanno cambiando, e sento soffiare i venti del commercio e della prosperità sulla nostra terra. Non siamo più i Dunmer isolati ai margini del continente. Facciamo parte di una società tamrielica che dipenderà sempre più dai negoziati con coloro al di là dei nostri confini. Non desidero che altre Casate acquisiscano maggiore influenza in tali discussioni rispetto alla nostra
+&lt;BR&gt;
+I nostri doveri come Redoran ci legano non solo alla famiglia e al clan, ma anche al nostro onore, e so di poter ottenere di più diventando saggio negli affari quanto nella maestria della lama. Cercherò di imparare dagli Imperiali come conquistare con il tesoro, dagli Hlaalu come devastare con le finanze. Temo che possiate pensare che io sia un codardo, o che sfugga alle mie responsabilità, ma spero che vedrete che ciò mi renderà un Consigliere diligente e saggio, capace di seguire le orme del grande Remas Morvayn.
+&lt;BR&gt;
+Oltre a tutto ciò, cari madre e padre, sono, e sarò sempre, leale alla nostra Casata e alla nostra famiglia. La saggezza di Sotha Sil, la forza di Almalexia e l'astuzia di Vivec mi hanno mostrato che per servire al meglio la casa e la parentela, devo partire da solo. Non preoccupatevi che dimenticherò il nostro popolo come i cani degli Hlaalu che si nutrono delle briciole dalle mani degli Imperiali. Faccio ciò solo con il miglior interesse del mio popolo nel cuore. Spero di tornare con conoscenze che ci saranno utili ora e in futuro.
+&lt;BR&gt;
+Vi porto sempre con me ovunque vada e non vedo l'ora di rivedervi entrambi.&lt;BR&gt;
+&lt;BR&gt;Lleril
+&lt;/font&gt;</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>90</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>0118011D</ID>
+    <EDID>_BKTheLostProphecy</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>The Lost Prophecy</ORIGINAL>
+    <TRADUIT>La profezia perduta</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>BOOK</GRUP>
+    <ID>0118011D</ID>
+    <EDID>_BKTheLostProphecy</EDID>
+    <CHAMP>DESC</CHAMP>
+    <ORIGINAL>&lt;DIV ALIGN="CENTER"&gt;
+The Lost Prophecy&lt;BR&gt;&lt;BR&gt;
+&lt;DIV ALIGN="LEFT"&gt;&lt;BR&gt;&lt;BR&gt;
+[from the Apographa of the Dissident Priests, annotated by Gilvas Barelo, Abbot of Holamayan]&lt;BR&gt;
+&lt;BR&gt;
+From seventh sign of eleventh generation,&lt;BR&gt;
+Neither Hound nor Guar, nor Seed nor Harrow, &lt;BR&gt;
+But Dragon-born and far-star-marked,&lt;BR&gt;
+Outlander Incarnate beneath Red Mountain,&lt;BR&gt;
+Blessed Guest counters seven curses,&lt;BR&gt;
+Star-blessed hand wields thrice-cursed blade,&lt;BR&gt;
+To reap the harvest of the unmourned house.&lt;BR&gt;</ORIGINAL>
+    <TRADUIT>&lt;DIV ALIGN="CENTER"&gt;
+La profezia perduta&lt;BR&gt;&lt;BR&gt;
+&lt;DIV ALIGN="LEFT"&gt;&lt;BR&gt;&lt;BR&gt;
+[Dagli scritti apocrifi dei Sacerdoti Dissidenti, annotati da Gilvas Barelo, Abate di Holamayan.]&lt;BR&gt;
+&lt;BR&gt;
+Dal settimo segno della undicesima generazione,&lt;BR&gt;
+Né Segugio né Guar, né Seme né Aratro,&lt;BR&gt;
+Ma Figlio del Drago e segnato dalle stelle lontane,&lt;BR&gt;
+Straniero Incarnato sotto la Montagna Rossa,&lt;BR&gt;
+Ospite Benedetto contrasta sette maledizioni,&lt;BR&gt;
+La Mano benedetta da una stella impugna la lama maledetta tre volte,&lt;BR&gt;
+Per mietere il raccolto della Casata Dimenticata.&lt;BR&gt;</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>90</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>16</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>0148006C</ID>
+    <EDID>Ahinipalit</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Ahinipalit</ORIGINAL>
+    <TRADUIT>Ahinipalit</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>014800D0</ID>
+    <EDID>AndrethiAncestralTomb</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Andrethi Ancestral Tomb</ORIGINAL>
+    <TRADUIT>Tomba Ancestrale Andrethi</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>01480134</ID>
+    <EDID>BalursFarmhouse</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Balur's Farmhouse</ORIGINAL>
+    <TRADUIT>Fattoria di Balur</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>01480198</ID>
+    <EDID>DruscashtiUpperLevel</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Druscashti Upper Level</ORIGINAL>
+    <TRADUIT> Druscashti, piano Superiore</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>014801FC</ID>
+    <EDID>ZFreeradsPrefabs</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Freerads Prefabs and Testing</ORIGINAL>
+    <TRADUIT>Prefabbricati e Test di Freerads</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>01480260</ID>
+    <EDID>MaarGanGuardTower1</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Marr Gan Southern Guard Tower</ORIGINAL>
+    <TRADUIT>Marr Gan, torre di guardia meridionale</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>014802C4</ID>
+    <EDID>ObscureShipwreck</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Obscure Shipwreck Upper Level</ORIGINAL>
+    <TRADUIT>Relitto Oscuro, piano superiore</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>01480328</ID>
+    <EDID>SadrithMoraVolmyniDralsHouse</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Volmyni Dral's House</ORIGINAL>
+    <TRADUIT>Casa di Volmyni Dral</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>0148038C</ID>
+    <EDID>TelAruhnBildrenArelethApothecary</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Bildren Areleth: Apothecary</ORIGINAL>
+    <TRADUIT>Bildren Areleth: Farmacista</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>CELL</GRUP>
+    <ID>014803F0</ID>
+    <EDID>UveranAncestralTomb</EDID>
+    <CHAMP>FULL</CHAMP>
+    <ORIGINAL>Uveran Ancestral Tomb</ORIGINAL>
+    <TRADUIT>Tomba ancestrale Uveran</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>-1</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0100CD01</ID>
+    <EDID>BBBValveliArelasKhuulTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Such a small dock; makes Gnaar Mok seem as grand as Vivec!</ORIGINAL>
+    <TRADUIT>Un porto così minuscolo; fa proprio sembrare Gnarr Mok grandiosa quanto Vivec!</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♀ Valveli Arelas [0126077B] (mod)
+Quest : Boat Travel
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0100CD01</ID>
+    <EDID>BBBValveliArelasKhuulTopic</EDID>
+    <CHAMP>RNAM</CHAMP>
+    <ORIGINAL>Let us set sail for Khuul. [&lt;global=fbmwBoatTravelGnaarMokKhuul&gt; gold]</ORIGINAL>
+    <TRADUIT>Salpiamo verso Khuul. [&lt;global=fbmwBoatTravelGnaarMokKhuul&gt; gold]</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>90</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE />
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0100F4C4</ID>
+    <EDID>MDQLittleSecretTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I like your style, n'wah. Here's a tip. Propylon. Ever been in a Dunmer stronghold? Have you seen the propylon chambers, with the two big stone pillars?</ORIGINAL>
+    <TRADUIT>Mi piace il tuo stile, n'wah. Ecco un suggerimento. Propylon. Sei mai stato in una fortezza Dunmer? Hai visto le camere propylon, con le due grandi colonne di pietra?</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Crazy-Legs Arantamo [0126026B] (mod)
+Quest : Morrowind Default Quest
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0100F4C4</ID>
+    <EDID>MDQLittleSecretTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>They're transportation devices. Except you need a key to use them -- a tiny little thing called a 'propylon index'. A guy tried to sell me one -- wanted a fortune for it, so I told him to blow.</ORIGINAL>
+    <TRADUIT>Sono dispositivi di trasporto. Ma hai bisogno di una chiave per usarli, una piccola cosa chiamata 'indice del propylon'. Un tizio ha cercato di vendermene uno, voleva una fortuna, così gli ho detto di andarsene a quel paese.</TRADUIT>
+    <PERSO />
+    <INDEX>2</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Crazy-Legs Arantamo [0126026B] (mod)
+Quest : Morrowind Default Quest
+EmotionType : Puzzled</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0100F4C4</ID>
+    <EDID>MDQLittleSecretTopic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Later I hear this guy went to a Daedric shrine called Maelkashishi, and forgot to come back. So maybe the propylon index went there with him. And stayed.</ORIGINAL>
+    <TRADUIT>In seguito ho sentito dire che questo tizio è andato in un santuario daedrico chiamato Maelkashishi e si è dimenticato di tornare. Quindi forse l'indice del propylon è andato là con lui. E ci è rimasto.</TRADUIT>
+    <PERSO />
+    <INDEX>3</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Crazy-Legs Arantamo [0126026B] (mod)
+Quest : Morrowind Default Quest
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01027BD7</ID>
+    <EDID>0DialogueVelothPilgrimageNo2Topic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Legends say he followed a hawk the whole way, but it was a really long walk, so probably not.</ORIGINAL>
+    <TRADUIT>Le leggende narrano che abbia seguito un falco per tutto il percorso, ma essendo una camminata molto lunga, probabilmente non è vero.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Balas Veloth [01F936E8] (mod)
+Quest : Balas Veloth
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01027BD7</ID>
+    <EDID>0DialogueVelothPilgrimageNo2Topic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>As the story goes, when he first saw Morrowind he shed a single tear which froze to crystal. It's said to hold powerful restorative properties.</ORIGINAL>
+    <TRADUIT>Secondo la storia, quando vide Morrowind per la prima volta, versò una singola lacrima che si cristallizzò. Si dice che abbia potenti proprietà guaritive.</TRADUIT>
+    <PERSO />
+    <INDEX>2</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Balas Veloth [01F936E8] (mod)
+Quest : Balas Veloth
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01027BD7</ID>
+    <EDID>0DialogueVelothPilgrimageNo2Topic</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I believe it used to be somewhere on the mainland, but who knows who has it now. Probably some random adventurer. What a shame.</ORIGINAL>
+    <TRADUIT>Credo che fosse da qualche parte sulla terraferma, ma chi sa chi l'ha ora. Probabilmente qualche avventuriero sconosciuto. Che peccato.</TRADUIT>
+    <PERSO />
+    <INDEX>3</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Balas Veloth [01F936E8] (mod)
+Quest : Balas Veloth
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01012F0D</ID>
+    <EDID>fbmwMSTreraynaBountyGreeting</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You did well, outlander. Thank you.</ORIGINAL>
+    <TRADUIT>Hai fatto bene, straniero. Grazie.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Mollimo of Cloudrest [012604ED] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Happy</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013689</ID>
+    <EDID>fbmwMQFyrKilledFriend</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You have killed someone dear to me. It is a mistake you will not live to regret.</ORIGINAL>
+    <TRADUIT>Hai ucciso qualcuno a cui tenevo. È un errore che non vivrai per rimpiangere.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Divayth Fyr [01260184] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Anger</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013610</ID>
+    <EDID>fbmwGreetingCorprusStayAway</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You've got the corprus! Stay away from me!</ORIGINAL>
+    <TRADUIT>Hai il Corpus! Stai lontano da me!</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Yagrum Bagarn [010033C5] (mod)
+NPC : ♂ Divayth Fyr [01260184] (mod)
+NPC : ♂ Caius Cosades [01260135] (mod)
+NPC : ♂ Vivec [0102626A] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+Comment (NAM2) : Corprus: KOR-pruss.
+EmotionType : Fear</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>0101364F</ID>
+    <EDID>fbmwMQ02SharnCannotThink01</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>I CANNOT think with all these interruptions. PLEASE leave me alone.</ORIGINAL>
+    <TRADUIT>Non riesco a pensare con tutte queste interruzioni. PERFAVORE lasciami in pace-</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♀ Sharn gra-Muzgob [01260122] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Anger</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013650</ID>
+    <EDID>fbmwMQ02SharnCannotThink02</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>What? Are you DEAF? No interruptions! I can't think!</ORIGINAL>
+    <TRADUIT>Cos'è, sei sordo?! Non mi interrompere! Non riesco a pensare!</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♀ Sharn gra-Muzgob [01260122] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Anger</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013652</ID>
+    <EDID>fbmwMQBackPathYagrum01</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Remember. When you first equip Wraithguard, you must endure a terrible shock. If you are not in perfect health, and have not fortified your health as much as possible, you'll be dead before you hit the ground.</ORIGINAL>
+    <TRADUIT>Ricorda. Quando equipaggi per la prima volta la Guardiana Spettrale, devi sopportare uno shock terribile. Se non sei in perfetta salute e non hai potenziato la tua salute il più possibile, sarai morto prima di toccare terra.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Yagrum Bagarn [010033C5] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013653</ID>
+    <EDID>fbmwMQBackPathYagrum02</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Patience. When I have had sufficient time to review Kagrenac's Planbook and Kagrenac's Journals, I will try to restore the mythopoeic enchantments on Wraithguard.</ORIGINAL>
+    <TRADUIT>Sii paziente. Quando avrò avuto il tempo sufficiente per esaminare il Libro dei Piani e i Diari di Kagrenac, cercherò di ripristinare gli incantesimi mitopoietici sulla Guardiana Spettrale.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Yagrum Bagarn [010033C5] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013670</ID>
+    <EDID>fbmwVARichGreeting01</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Greetings, Dark One. I am yours. I submit myself to your will.</ORIGINAL>
+    <TRADUIT>Saluti, Oscuro Signore. Sono tuo. Mi sottometto alla tua volontà.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Sanvyn Llethri [01260A06] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013671</ID>
+    <EDID>fbmwVARichGreeting02</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>You are pathetic! Where is your power, vampire? You have nothing I desire. Leave me now. All I have heard about your kind is a lie.</ORIGINAL>
+    <TRADUIT>Sei patetico! Dove è il tuo potere, vampiro? Non hai niente che mi interessi. Vattene via. Tutto ciò che ho sentito sulla tua specie è una bugia.</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>0</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Sanvyn Llethri [01260A06] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Anger</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+  <ESP>
+    <GRUP>INFO</GRUP>
+    <ID>01013682</ID>
+    <EDID>fbmwVARichGreeting03</EDID>
+    <CHAMP>NAM1</CHAMP>
+    <ORIGINAL>Yes, Shadow Walker? Your servant awaits.</ORIGINAL>
+    <TRADUIT>Si, Attraversaombre? Il tuo servo attende.
+</TRADUIT>
+    <PERSO />
+    <INDEX>1</INDEX>
+    <STATUS>99</STATUS>
+    <IDSTEXTE>-1</IDSTEXTE>
+    <COMMENTAIRE>NPC : ♂ Sanvyn Llethri [01260A06] (mod)
+Quest : Shared Infos from 0000TempTopic - Quest used to preserve filenames
+EmotionType : Neutral</COMMENTAIRE>
+    <ICON>10</ICON>
+  </ESP>
+</DocumentElement>
